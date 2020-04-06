@@ -15,3 +15,4 @@ Example terminal output:
 
 
 
+![NBAMLTeamWinsPredictions](https://user-images.githubusercontent.com/43652410/78615623-1263ec80-7840-11ea-8595-9e213e6a5b16.png)
