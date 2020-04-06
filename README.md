@@ -9,7 +9,7 @@ seasons before that which you want to predict as well.
 
 Data is scraped from https://www.basketball-reference.com/
 
-Example terminal output: 
+**Example Terminal Output:** 
 
 Enter starting season: 2017
 Enter the number of seasons to gather data from: 2
