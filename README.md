@@ -11,7 +11,23 @@ Data is scraped from https://www.basketball-reference.com/
 
 Example terminal output: 
 
+Enter starting season: 2017
+Enter the number of seasons to gather data from: 2
+Gathering training data from the 2017 - 2016 NBA seasons
 
+[===========================================================-] 98.3% ...Loading...
+Done!
+
+Saved as C:\Users\faiza\OneDrive\Desktop\NBAData\NBAMLTrainingSet20172Y.csv
+
+Enter starting season for your testing set: 2019
+Enter how many seasons you want to test: 2
+Gathering testing data from the 2019 - 2018 NBA seasons
+
+[===========================================================-] 98.3% ...Loading...
+Done!
+
+Saved as C:\Users\faiza\OneDrive\Desktop\NBAData\NBAMLTestingSet20192Y.csv
 
 
 
