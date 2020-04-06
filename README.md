@@ -13,7 +13,9 @@ Data is scraped from https://www.basketball-reference.com/
 ## **Example Terminal Output:** 
 
 Enter starting season: 2017 
+
 Enter the number of seasons to gather data from: 2
+
 Gathering training data from the 2017 - 2016 NBA seasons
 
 [===========================================================-] 98.3% ...Loading...
