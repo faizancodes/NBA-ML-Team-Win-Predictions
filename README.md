@@ -39,7 +39,8 @@ Saved as C:\Users\faiza\OneDrive\Desktop\NBAData\NBAMLTestingSet20192Y.csv
 
 ## **Predictions** 
 
-Team Name, Year, Actual Wins, Predicted Wins
+**Team Name, Year, Actual Wins, Predicted Wins**
+
 Golden State Warriors 2019 57.0 57 Error: (0.0)
 
 Golden State Warriors 2018 58.0 56 Error: (2.0)
