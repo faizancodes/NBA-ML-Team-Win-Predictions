@@ -164,4 +164,4 @@ Phoenix Suns 2018 21.0 17 Error: (4.0)
 **Avg Error 2.433333333333333**
 
 
-![NBAMLTeamWinsPredictions](https://user-images.githubusercontent.com/43652410/78615623-1263ec80-7840-11ea-8595-9e213e6a5b16.png)
+![NBAMLTeamWinsPredictions](https://user-images.githubusercontent.com/43652410/78716368-cc189700-78ec-11ea-805a-67f3a89384d6.png)
