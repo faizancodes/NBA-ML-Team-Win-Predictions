@@ -161,7 +161,7 @@ Brooklyn Nets 2019 42.0 41 Error: (1.0)
 
 Brooklyn Nets 2018 28.0 33 Error: (5.0)
 
-Avg Error 2.433333333333333
+**Avg Error 2.433333333333333**
 
 
 ![NBAMLTeamWinsPredictions](https://user-images.githubusercontent.com/43652410/78615623-1263ec80-7840-11ea-8595-9e213e6a5b16.png)
