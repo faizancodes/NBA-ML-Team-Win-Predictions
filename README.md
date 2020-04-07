@@ -163,5 +163,4 @@ Washington Wizards 2018 43.0 43 Error: (0.0)
 
 **Avg Error 2.433333333333333**
 
-
-![NBAMLTeamWinsPredictions](https://user-images.githubusercontent.com/43652410/78716368-cc189700-78ec-11ea-805a-67f3a89384d6.png)
+![NBAMLTeamWinsPredictions](https://user-images.githubusercontent.com/43652410/78718954-2287d480-78f1-11ea-994e-1dcaeb6b659d.png)
