@@ -315,7 +315,7 @@ def findCorrelations():
 
 
     
-saveTo = 'C:\\Users\\faiza\\OneDrive\\Desktop\\NBAData\\'
+saveTo = 'C:\\Users\\faiza\\OneDrive\\Desktop\\NBAData\\' #Change this to the location in which you want to save your files
 
 #Generate Training Set
 year = int(input("Enter starting season: "))
